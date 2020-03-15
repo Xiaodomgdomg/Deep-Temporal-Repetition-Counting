@@ -1,2 +1,2 @@
 # CVPR2020-Deep-Temporal-Repetition-Counting
-Source code and dataset of Context-aware and Scale-insensitive Temporal Repetition Counting
+The source code and data will be published after I can back to school.
