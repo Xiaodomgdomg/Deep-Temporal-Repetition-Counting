@@ -40,7 +40,7 @@ python main.py --pretrain_path = pretrained_model_path
 ```
 
 ### Testing
-You can also run the trained model provide by ours ([Google Drive]()):
+You can also run the trained model provide by ours ([Google Drive]() or [Baidu Netdisk](https://pan.baidu.com/s/1iqwsVZDeBBdxBq3iWhPBNA) code:na81):
 ```bash
 python main.py --no_train --resume_path = trained_model_path
 ```
