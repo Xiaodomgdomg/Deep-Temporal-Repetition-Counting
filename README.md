@@ -1,4 +1,6 @@
 # CVPR2020-Deep-Temporal-Repetition-Counting
+This is the official implementation of CVPR2020 paper: ["Context-aware and Scale-insensitive Temporal Repetition Counting"](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Context-Aware_and_Scale-Insensitive_Temporal_Repetition_Counting_CVPR_2020_paper.html)
+
 This code is implemented based on the project["3D ResNets for Action Recognition"](https://github.com/kenshohara/3D-ResNets-PyTorch). 
 
 ## Requirements
